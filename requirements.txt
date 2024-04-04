@@ -1,0 +1,8 @@
+beautifulsoup4==4.12.3
+colorama==0.4.6
+openpyxl==3.1.2
+selenium==4.19.0
+tqdm==4.66.2
+webdriver_manager==4.0.1
+bs4==0.0.2
+workbook==1.1
